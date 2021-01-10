@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	chk "gopkg.in/check.v1"
+	chk "github.com/sfc-gh-cshi/check"
 )
 
 // Testings for RetryReader

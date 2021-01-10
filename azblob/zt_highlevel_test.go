@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	chk "gopkg.in/check.v1"
+	chk "github.com/sfc-gh-cshi/check"
 )
 
 // create a test file

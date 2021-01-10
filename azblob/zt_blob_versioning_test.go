@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"strings"
 
-	chk "gopkg.in/check.v1" // go get gopkg.in/check.v1
+	chk "github.com/sfc-gh-cshi/check" // go get github.com/sfc-gh-cshi/check
 )
 
 func (s *aztestsSuite) TestGetBlobPropertiesUsingVID(c *chk.C) {

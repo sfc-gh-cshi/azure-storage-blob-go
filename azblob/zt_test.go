@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	chk "gopkg.in/check.v1"
+	chk "github.com/sfc-gh-cshi/check"
 
 	"github.com/Azure/azure-pipeline-go/pipeline"
 	"github.com/Azure/go-autorest/autorest/adal"
