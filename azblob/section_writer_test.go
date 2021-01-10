@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	chk "gopkg.in/check.v1"
+	chk "github.com/sfc-gh-cshi/check"
 )
 
 func (s *aztestsSuite) TestSectionWriter(c *chk.C) {

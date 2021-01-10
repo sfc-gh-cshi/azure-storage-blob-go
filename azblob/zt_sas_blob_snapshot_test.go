@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	chk "gopkg.in/check.v1"
+	chk "github.com/sfc-gh-cshi/check"
 )
 
 func (s *aztestsSuite) TestSnapshotSAS(c *chk.C) {

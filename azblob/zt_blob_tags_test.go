@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"encoding/binary"
 	"fmt"
-	chk "gopkg.in/check.v1"
+	chk "github.com/sfc-gh-cshi/check"
 	"io/ioutil"
 	"log"
 	"net/url"

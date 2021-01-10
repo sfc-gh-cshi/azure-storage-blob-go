@@ -3,7 +3,7 @@ package azblob
 import (
 	"bytes"
 
-	chk "gopkg.in/check.v1"
+	chk "github.com/sfc-gh-cshi/check"
 )
 
 func (s *aztestsSuite) TestBytesWriterWriteAt(c *chk.C) {
